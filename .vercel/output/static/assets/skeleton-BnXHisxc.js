@@ -1,0 +1,1 @@
+import{r as e}from"./dist-DzSuGaNb.js";import{a as t}from"./button-Ct7sl0Kp.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`div`,{className:t(`animate-pulse rounded-lg bg-border/80`,e),...r})}export{r as t};
